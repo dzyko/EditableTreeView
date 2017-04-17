@@ -7,7 +7,6 @@ After installing node.js and npm, clone "EditableTreeView" and install dependenc
     git clone https://github.com/dzyko/EditableTreeView.git
     cd EditableTreeView
     npm install
-    Project is running at http://localhost:8080/
 
 Next, launch the development web server:
 
